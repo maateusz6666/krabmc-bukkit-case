@@ -1,0 +1,4 @@
+name: krabmc-bukkit-case
+version: '1.0'
+main: pl.krabmc.Main
+api-version: '1.20'

@@ -1,0 +1,14 @@
+C:\Users\mateusz\IdeaProjects\krabmc-bukkit-case\src\main\java\pl\krabmc\commands\argument\CaseArgument.java
+C:\Users\mateusz\IdeaProjects\krabmc-bukkit-case\src\main\java\pl\krabmc\commands\command\admin\CaseCommand.java
+C:\Users\mateusz\IdeaProjects\krabmc-bukkit-case\src\main\java\pl\krabmc\commands\handler\InvalidUsageHandler.java
+C:\Users\mateusz\IdeaProjects\krabmc-bukkit-case\src\main\java\pl\krabmc\commands\handler\MissingPermissionHandler.java
+C:\Users\mateusz\IdeaProjects\krabmc-bukkit-case\src\main\java\pl\krabmc\inventories\CaseEditInventory.java
+C:\Users\mateusz\IdeaProjects\krabmc-bukkit-case\src\main\java\pl\krabmc\inventories\CasePreviewInventory.java
+C:\Users\mateusz\IdeaProjects\krabmc-bukkit-case\src\main\java\pl\krabmc\listeners\InteractionListener.java
+C:\Users\mateusz\IdeaProjects\krabmc-bukkit-case\src\main\java\pl\krabmc\listeners\InventoryCloseListener.java
+C:\Users\mateusz\IdeaProjects\krabmc-bukkit-case\src\main\java\pl\krabmc\listeners\InventoryListener.java
+C:\Users\mateusz\IdeaProjects\krabmc-bukkit-case\src\main\java\pl\krabmc\Main.java
+C:\Users\mateusz\IdeaProjects\krabmc-bukkit-case\src\main\java\pl\krabmc\managers\CaseManager.java
+C:\Users\mateusz\IdeaProjects\krabmc-bukkit-case\src\main\java\pl\krabmc\objects\CaseObject.java
+C:\Users\mateusz\IdeaProjects\krabmc-bukkit-case\src\main\java\pl\krabmc\utils\ChatUtil.java
+C:\Users\mateusz\IdeaProjects\krabmc-bukkit-case\src\main\java\pl\krabmc\utils\PercentageUtil.java

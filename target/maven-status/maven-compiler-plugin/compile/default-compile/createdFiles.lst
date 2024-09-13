@@ -1,0 +1,14 @@
+pl\krabmc\inventories\CaseEditInventory.class
+pl\krabmc\listeners\InventoryListener.class
+pl\krabmc\commands\handler\InvalidUsageHandler.class
+pl\krabmc\utils\PercentageUtil.class
+pl\krabmc\objects\CaseObject.class
+pl\krabmc\listeners\InteractionListener.class
+pl\krabmc\commands\command\admin\CaseCommand.class
+pl\krabmc\listeners\InventoryCloseListener.class
+pl\krabmc\utils\ChatUtil.class
+pl\krabmc\inventories\CasePreviewInventory.class
+pl\krabmc\managers\CaseManager.class
+pl\krabmc\commands\handler\MissingPermissionHandler.class
+pl\krabmc\Main.class
+pl\krabmc\commands\argument\CaseArgument.class
